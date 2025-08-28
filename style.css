@@ -1,0 +1,41 @@
+.navbar-brand{
+      margin-right: 100px;
+      margin-left: 100px;
+    }
+    b{
+      color: wheat;
+    }
+    .nav-link{
+      margin-left: 35px;
+      margin-right: 35px;
+      font-size: 18px;
+    }
+    .nav-link:hover{
+  transform: translateY(-10px);
+  transition: color 1s ease, transform 1s ease;
+  
+    }
+
+    .card-body{
+      background-color: mediumvioletred;
+    }
+
+    .list-group-item{
+      background-color: darkorange;
+      
+    }
+
+    
+    #a{
+      font-size: 20px;
+    }
+    .text-success
+    {
+      font-size: 50px;
+
+    }
+
+    .b{
+      float: right;
+      font-size: 15px;
+    }
